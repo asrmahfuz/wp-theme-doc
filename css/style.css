@@ -1,0 +1,165 @@
+/* Min Color #7F00FF; */
+
+body {
+    color:#747474;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.8rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bree Serif', serif;
+    margin: 0 0 15px;
+    color: #000;
+}
+
+.padding-top-50 {
+    padding-top: 50px;
+}
+
+.padding-top-30 {
+    padding-top: 30px;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0px;
+}
+
+.highlight {
+    color: #663399;
+    font-weight: 700;
+    margin: 0 2px;
+    font-size: 17px;
+}
+
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/*----------------------------------*/
+/* Header CSS
+/*----------------------------------*/
+.header-area a.navbar-brand {
+    color: #663399;
+}
+
+.header-area {
+    background: #fbfafc;
+    color: #fff;
+}
+
+.header-area .navbar {
+    padding: 35px 0;
+}
+
+.header-info h2 {
+    color: #222;
+}
+
+.header-info h5 {
+    color: #9D7CBF;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+.mainmenu-area {
+    background: #663399;
+}
+
+.mainmenu-area .navbar-nav li a {
+    display: block;
+    padding: 20px 25px !important;
+    color: #fff;
+    font-family: 'Bree Serif', serif;
+    font-size: 16px;
+}
+
+.navbar-nav li .active {
+    background: #571b94;
+}
+
+.mainmenu-area .navbar-nav li .dropdown-menu li a {
+    color: #000;
+    padding: 10px 20px !important;
+}
+
+/*----------------------------------*/
+/* Main Title CSS
+/*----------------------------------*/
+.main-title-section {
+    padding: 70px 0 20px;
+}
+
+.text-block__title {
+    padding: 10px 0 13px;
+    border-top: 1px solid #f0f0f0;
+    border-bottom: 1px solid #f0f0f0;
+    line-height: 1;
+    font-size: 24px;
+}
+
+.space-list {
+    margin: 0;
+    padding: 0 0 0 15px;
+    list-style-type: square;
+}
+
+.space-list a {
+    font-weight: 700;
+    color: #663399;
+}
+
+.space-list li {
+    padding: 10px 0 10px;
+    font-size: 15px;
+}
+
+.space-list a:hover {
+    text-decoration: none;
+}
+
+
+/*----------------------------------*/
+/* Footer CSS
+/*----------------------------------*/
+.footer-section {
+    padding: 15px 0;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/curls.png);
+    margin-top: 50px;
+    color: #fff;
+}
+
+.footer-section p {
+    margin: 0;
+}
+
+/*----------------------------------*/
+/* Installation Page CSS
+/*----------------------------------*/
+.img-responsive {
+    display: block;
+}
+
+.img-responsive img {
+    width: 100%;
+}
+
+/*----------------------------------*/
+/* Demo Installation Page CSS
+/*----------------------------------*/
+.text-block__subtitle {
+    margin: 15px 0 15px;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 15px;
+    color: #6b6b6b;
+}

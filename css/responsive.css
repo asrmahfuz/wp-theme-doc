@@ -1,0 +1,37 @@
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .navbar-toggler {
+      color: #fff;
+      border: 1px solid #fff;
+      margin: 10px;
+    }
+    
+    .navbar-toggler-icon {
+      background: #fff;
+    }
+    
+    .mainmenu-area .navbar-nav li {
+      display: block;
+      width: 100%;
+      float: none;
+    }
+    
+    .navbar-expand-lg {
+      width: 100%;
+    }
+    
+    #navbarNav {
+      border-top: 1px solid #571b94;
+      padding-top: 5px;
+    }
+    
+    .mainmenu-area .navbar-nav li a {
+        padding: 10px 15px !important;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {}
